@@ -158,3 +158,4 @@ Border_collie
 Lhasa
 Samoyed
 Weimaraner
+English_setter
